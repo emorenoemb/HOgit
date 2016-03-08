@@ -13,7 +13,7 @@ Pasos con los que armamos el repo de github de HOgit.
 
 ## Cómo creamos este repositorio
 
-Inicialmente estaba creado en github (desde la WEB) con 
+Inicialmente estaba creado en github (desde la WEB) con
 sólo un README. EN cualquier lugar pueden (y deberían!)
 correr `git status` y `git branch -a` para chequear
 en qué estado está el repositorio y en qué branch están:
@@ -79,7 +79,7 @@ git commit
 ```
 
 Y ahora, en master, hacemos un merge de ambas branches por separado:
-(fíjense que no importa que el orden sea el mismo que en el que 
+(fíjense que no importa que el orden sea el mismo que en el que
 las modificamos. es sensato porque las branches no se comunican)
 
 ```
@@ -122,10 +122,7 @@ git push
 ```
 
 En la pagina de github, si se desea copiar un proyecto a tu area presionar donde aparece la palabra FORK
-luego para bajarlo a tu pc personal poner 
+
+
+luego para bajarlo a tu pc personal poner
 git clone <direccion web>
-
-git clone.........
-
-
-
