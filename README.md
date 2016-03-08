@@ -120,3 +120,5 @@ y el push
 ```
 git push
 ```
+
+En la pagina de github, si se desea copiar un proyecto a tu area presionar donde aparece la palabra FORK
