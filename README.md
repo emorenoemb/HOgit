@@ -122,3 +122,6 @@ git push
 ```
 
 En la pagina de github, si se desea copiar un proyecto a tu area presionar donde aparece la palabra FORK
+luego para bajarlo a tu pc personal poner 
+git clone <direccion web>
+
